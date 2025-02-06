@@ -1,0 +1,8 @@
+{
+  "CandlStableSwapLPFactory": "0xba96F0ecb8DB572204B9fbB8918Ac8c901a84D01",
+  "CandlStableSwapTwoPoolDeployer": "0xd89C7FA33fC5459d2FD1B24723fb600a1EEB8534",
+  "CandlStableSwapThreePoolDeployer": "0x62307815794dB8f6e73381D0E5C4967B150609CA",
+  "CandlStableSwapFactory": "0x4fA5DA54F747C4B8BB58F5943B0b7638e48CD505",
+  "CandlStableSwapTwoPoolInfo": "0x3bbb7E4FfC5781B9F2fbf6930622E62424248a43",
+  "CandlStableSwapInfo": "0xFa37899Ece07756B1c16be60ae4eDdFf59F4d4d6"
+}
